@@ -16,5 +16,5 @@
 ![Screenshot 2023-07-08 131123](https://github.com/JAYASURYA510/R-task-shuopcart/assets/133185043/1601b0be-1e74-44ca-a674-374f82ad0681)
 
 
-  #### Thank you for whatching my repo : start_struck:
+  #### Thank you for whatching my repo :star_struck:
 
