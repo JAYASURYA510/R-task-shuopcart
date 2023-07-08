@@ -11,6 +11,7 @@
 + if item removes cart quantity also decreased
 
 ### `cart preview`
+![Screenshot 2023-07-08 131036](https://github.com/JAYASURYA510/R-task-shuopcart/assets/133185043/8c260ecb-48d7-491b-b616-1630d6b70d6d)
 
 ![Screenshot 2023-07-08 131123](https://github.com/JAYASURYA510/R-task-shuopcart/assets/133185043/1601b0be-1e74-44ca-a674-374f82ad0681)
 The page will reload when you make changes.\
