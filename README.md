@@ -12,9 +12,7 @@
 
 ### `cart preview`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+![Screenshot 2023-07-08 131123](https://github.com/JAYASURYA510/R-task-shuopcart/assets/133185043/1601b0be-1e74-44ca-a674-374f82ad0681)
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
