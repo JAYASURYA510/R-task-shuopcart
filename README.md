@@ -1,17 +1,16 @@
-# Getting Started with Create React App
-- surya 
-- pavan
-- ravan
-- ravi
+# Created a Shopping cart in React 
+- allows user to add items
+- allows user to remove items from the cart count
+- 
+## featurs 
 
++ displayed a list of available product with their name and description
++ able to add items to the cart by clicking the "add cart" button
++ the cart quantity number increased when an item added
++ it is able to remove on opption
++ if item removes cart quantity also decreased
 
- # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+### `cart preview`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
