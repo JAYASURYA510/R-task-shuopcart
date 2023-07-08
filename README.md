@@ -1,7 +1,7 @@
 # Created a Shopping cart in React 
 - allows user to add items
 - allows user to remove items from the cart count
-- 
+  
 ## featurs 
 
 + displayed a list of available product with their name and description
